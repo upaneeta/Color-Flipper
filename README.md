@@ -1,2 +1,3 @@
 # Color-Flipper
-A simple javascript project 
+This is a simple javascript project. The project demonstrates how the background color changes randomly on click of a button. 
+
