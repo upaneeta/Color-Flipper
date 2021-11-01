@@ -24,15 +24,15 @@ h1{
 
 .container{
     text-align: center;
-    padding: 11rem;
+    padding: 14.5vw;
     justify-content: center;
 }
 .butn{
-    margin: 5rem;
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    margin: 5vw;
+    padding-right: 0.5vw;
+    padding-left: 0.5vw;
     font-size: large;
-    border-radius: 1.5rem;
+    border-radius: 1.5vw;
     border-color: azure;
     color:rgb(255, 0, 76);
     font-weight: bold;
