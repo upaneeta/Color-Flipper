@@ -36,6 +36,7 @@ h1{
     border-color: azure;
     color:rgb(255, 0, 76);
     font-weight: bold;
+    cursor:pointer;
     
 }
 .butn:hover{
